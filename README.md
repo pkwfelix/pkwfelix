@@ -1,9 +1,8 @@
 ### Hai there 👋 
 
 About myself:
-- 🧑 self-taught Front-end Web Developer from Malaysia 🇲🇾
-- 💼 Product Development Engineer @ o2o.my
+- 🧑 self-taught Full-stack Web Developer from Malaysia 🇲🇾
+- 💼 Head of Product @ o2o.my
 - 🔨 enjoys making micro-scripts, plugins and API interactions.
-- 🔥 currently working on my first SaaS!
-- 🌱 currently learning React and Go, possibly Flutter!
+- 🌱 currently trying to build own company and SaaS!
 - 🧐 looking to collaborate on business or interesting project collaborations!
