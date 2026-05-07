@@ -7,5 +7,4 @@ About myself:
 - 🌱 currently trying to build own SaaS!
 - 🧐 looking to collaborate on business or interesting project collaborations!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkwfelix&layout=compact)
 ![Activity](https://pkw-tracker.pages.dev/activity3d.svg)
